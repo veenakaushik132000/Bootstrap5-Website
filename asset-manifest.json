@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ac9e99a.css",
-    "main.js": "/static/js/main.f54af97d.js",
-    "static/js/787.4f6d14da.chunk.js": "/static/js/787.4f6d14da.chunk.js",
-    "static/media/firstdiv.png": "/static/media/firstdiv.b17d77b42ff4e8666d71.png",
-    "static/media/bootstrap.svg": "/static/media/bootstrap.76184b3aa41f9ab198e2cc85c122d5b3.svg",
-    "index.html": "/index.html",
-    "main.9ac9e99a.css.map": "/static/css/main.9ac9e99a.css.map",
-    "main.f54af97d.js.map": "/static/js/main.f54af97d.js.map",
-    "787.4f6d14da.chunk.js.map": "/static/js/787.4f6d14da.chunk.js.map"
+    "main.css": "/veenakaushik132000/Bootstrap5-Website/static/css/main.9ac9e99a.css",
+    "main.js": "/veenakaushik132000/Bootstrap5-Website/static/js/main.00f31689.js",
+    "static/js/787.4f6d14da.chunk.js": "/veenakaushik132000/Bootstrap5-Website/static/js/787.4f6d14da.chunk.js",
+    "static/media/firstdiv.png": "/veenakaushik132000/Bootstrap5-Website/static/media/firstdiv.b17d77b42ff4e8666d71.png",
+    "static/media/bootstrap.svg": "/veenakaushik132000/Bootstrap5-Website/static/media/bootstrap.76184b3aa41f9ab198e2cc85c122d5b3.svg",
+    "index.html": "/veenakaushik132000/Bootstrap5-Website/index.html",
+    "main.9ac9e99a.css.map": "/veenakaushik132000/Bootstrap5-Website/static/css/main.9ac9e99a.css.map",
+    "main.00f31689.js.map": "/veenakaushik132000/Bootstrap5-Website/static/js/main.00f31689.js.map",
+    "787.4f6d14da.chunk.js.map": "/veenakaushik132000/Bootstrap5-Website/static/js/787.4f6d14da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac9e99a.css",
-    "static/js/main.f54af97d.js"
+    "static/js/main.00f31689.js"
   ]
 }
