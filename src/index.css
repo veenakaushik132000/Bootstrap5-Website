@@ -262,14 +262,14 @@ background-color: rgb(255, 255, 255);
   background-color: #ffffff;
 
   width: 220px;
-
+  
   height: 100px;
 
 }
 
 .middle2 h4{
 
-  margin-left: 12px;
+  margin-left: 50px;
 
   opacity: 0.7;
 
@@ -281,7 +281,7 @@ background-color: rgb(255, 255, 255);
 
   opacity: 0.7;
 
-  margin-left: 12px;
+  margin-left: 50px;
 
   margin-top: -15px;
 
@@ -556,7 +556,7 @@ background-color: rgb(255, 255, 255);
 
 .buttond{
 
-  background-color:         rgb(255, 77, 77);;
+  background-color: rgb(255, 77, 77);;
 
   color: white;
 
@@ -592,7 +592,7 @@ background-color: rgb(255, 255, 255);
 
 #div1{
 
-  background-color: #85c0ff;
+  background-color: #d1e4f9;
 
   height: 100px;
 
@@ -652,17 +652,11 @@ table#alter tr:nth-child(even) {
  
   background-color: rgb(232, 236, 238);
  
-  height: 930px;
+  height: 1100px;
  
   padding: 90px 120px 120px 120px;
  
  }
-
-
-
-
-
-
 
 
 .emptyFourDiv{
